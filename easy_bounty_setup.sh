@@ -105,7 +105,7 @@ echo "¿Es este un Bug Bounty Program (BBP) o un Vulnerability Disclosure Progra
 read program_type
 
 # Preguntar detalles sobre los targets
-echo "Introduce los detalles sobre los targets (targets):"
+echo "Introduce los detalles sobre los targets  (separa cada target con una coma):"
 read targets_details
 
 # Solicitar las reglas del programa
